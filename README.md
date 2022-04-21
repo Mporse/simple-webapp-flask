@@ -11,8 +11,8 @@ apt install -y python3 python3-setuptools python3-dev build-essential python3-pi
 
 ## 2. Install Python dependencies
 ```bash
-pip install flask
-pip install flask-mysql
+pip3 install flask
+pip3 install flask-mysql
 ```
 
 ## 3. Configure Web Server
