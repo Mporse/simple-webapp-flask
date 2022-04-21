@@ -6,7 +6,7 @@ The steps required to run/deploy the app are listed below.
 ## 1. Update apt Repos and Install apt Dependencies
 ```bash
 apt update
-apt install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
+apt install -y python3 python3-setuptools python3-dev build-essential python3-pip python3-mysqldb
 ```
 
 ## 2. Install Python dependencies
