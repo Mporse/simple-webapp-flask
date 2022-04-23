@@ -1,4 +1,6 @@
 # Simple Flask Web Application
+_The code in this repo has been forked from my other account._  
+
 Simple webapp created in Flask (and using a MySQL database) and tested for deployment using Docker. Created as part of the following Kodekloud corse: [Docker for the Absolute Beginner](https://kodekloud.com/courses/docker-for-the-absolute-beginner/)
 
 The steps required to run/deploy the app are listed below.
@@ -29,5 +31,5 @@ FLASK_APP=app.py flask run --host=0.0.0.0
 Visit the following URL in a browser:
 ```
 http://<IP>:5000                                  # The welcome site of the app.
-htpp://<IP>:5000/how%20are%20you                  # Page shows "I am good, how are you?"
+htpp://<IP>:5000/how%20are%20you                  # Page displays "I am good, how are you?"
 ```
